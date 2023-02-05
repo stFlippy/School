@@ -1,0 +1,4 @@
+[func_name: check_line — parameters:Ярослав bxh@ya.ru 600 — type_error:<class 'ValueError'> — Age not in 10..99 range]
+[func_name: check_line — parameters:Тролль nsocnzas.mail.ru 82 — type_error:<class 'ValueError'> — it's not a email]
+[func_name: check_line — parameters:Земфира 86 — type_error:<class 'ValueError'> — not enough values to unpack (expected 3, got 2)]
+[func_name: perky — parameters:42 — type_error:<class 'ZeroDivisionError'> — division by zero]
